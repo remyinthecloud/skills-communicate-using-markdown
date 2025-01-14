@@ -17,3 +17,11 @@ y = "Hello world!"
 
 print(y)
 ```
+
+List example:
+
+'''
+- [x] Start Markdown Course
+- [ ] Complete Markdown Course
+- [ ] Move on to Linux course
+'''
