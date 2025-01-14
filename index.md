@@ -13,7 +13,7 @@ Example of an image:
 Code Snippet Example:
 ``` Python
 x = 5
-y = :Hello world!"
+y = "Hello world!"
 
 print(y)
 ```
